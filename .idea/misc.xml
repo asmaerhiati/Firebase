@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_baseline_dashboard_24.xml" value="0.1925925925925926" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_baseline_home_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_baseline_info_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_baseline_lock_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_baseline_power_settings_new_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_food_menu.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_food_search.xml" value="0.18177083333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_mdi_star_rate.xml" value="0.1" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/ic_wave.xml" value="0.1140625" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/personicon.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/rectangle_background.xml" value="0.1" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/round.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable-v24/time_bg.xml" value="0.1" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/buttons.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/details_button_drawable.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/home_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_baseline_map_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_baseline_power_settings_new_24.xml" value="0.19282051282051282" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_hrdtxr01.xml" value="0.1234375" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_menu_camera.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/name_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/oval.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/power_settings_new_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/restaurant_menu_24.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/usr.xml" value="0.19114583333333332" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/drawable/wave2.xml" value="0.15625" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/font/abhaya_libre.xml" value="0.1375" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/font/autour_one.xml" value="0.165625" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/font/b.xml" value="0.16354166666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_admin2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_admin_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_adminadd_new.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_cart.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_confirmer_order.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_detail_dish.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_food_detail.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_information_user.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_login.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main2.xml" value="0.14666666666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main3.xml" value="0.1" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main4.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main5.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_main6.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_map.xml" value="0.1" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_my_cart.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_my_cart2.xml" value="0.11979166666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_payment.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_placed_order.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_profile.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_rating.xml" value="0.15052083333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_recherche.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_request_admin.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_sign_up.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/activity_users_admin.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/app_bar_recherche.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/category_row_items.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/content_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/content_recherche.xml" value="0.13802083333333334" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/food_item_layout.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/home_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/item.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/item_sliderr.xml" value="0.18" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/itemcart.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/itemcommande.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/itemfeedback.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/itemrating.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/itemuser.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/layout_category.xml" value="0.6330275229357798" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/main_nav_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/main_recycler_row_item.xml" value="0.22" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/main_toolbar.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/promo_item.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/rate.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/slider_item.xml" value="0.18" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/layout/toolbar.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/activity_main_drawer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/drawer.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/drawer_activity2.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/home.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/main4.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/main5.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/main_activity4.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/menu/main_activity5.xml" value="0.1796875" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19583333333333333" />
+        <entry key="..\:/Users/Pc/firebase/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.19583333333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
